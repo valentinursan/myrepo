@@ -1,0 +1,26 @@
+#EXTM3U
+#EXTINF:-1,RO: Realitatea Plus
+https://edge.realitatea.net/realitatea/plus_fq/playlist.m3u8
+#EXTINF:-1,RO: DIGI 24 TV
+https://edge-ar.rcs-rds.ro/digi24ar/index.m3u8 
+#EXTINF:-1,RO:Aleph News
+https://stream-aleph.m.ro/Aleph/ngrp:Alephnewsmain.stream_all/playlist.m3u8 
+#EXTINF:-1,RO: Prima TV
+https://stream1.1616.ro:1945/prima/livestream/playlist.m3u8
+
+#EXTINF:-1,EN: DW
+https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8
+#EXTINF:-1,EN: CNN
+https://cnn-cnninternational-1-eu.rakuten.wurl.tv/playlist.m3u8 
+#EXTINF:-1,RO: PROTV Stiri
+https://cmero-ott-live.ssl.cdn.cra.cz/channels/cme-ro-voyo-news/playlist.m3u8
+
+
+
+
+#EXTINF:-1,EN: Fashion TV
+https://fashiontv-fashiontv-1-eu.rakuten.wurl.tv/playlist.m3u8
+#EXTINF:-1,EN: V2Beat Music
+https://abr.de1se01.v2beat.live/playlist.m3u8
+#EXTINF:-1,EN: Radio m2o Music
+https://4c4b867c89244861ac216426883d1ad0.msvdn.net/live/S62628868/uhdWBlkC1AoO/playlist.m3u8
